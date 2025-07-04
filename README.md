@@ -1,3 +1,5 @@
 # lab-git-and-github
 
-## Gotta do the daily commit
+## I think this was for a HTML, CSS assiignment
+
+### Daily-commit
