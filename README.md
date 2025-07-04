@@ -1,5 +1,3 @@
 # lab-git-and-github
 
-
-
-## daily-commit
+## Gotta do the daily commit
